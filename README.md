@@ -12,7 +12,7 @@ All of that has to be different for different business roles.
 
 This project has been developed to facilitate this requirements.
 
-Please, see ... for more technical bacground and use cases.
+Please, see ... for more technical background and use cases.
 
 ### How to install and use
 1. Import the project with [abapGit](http://abapgit.org).
