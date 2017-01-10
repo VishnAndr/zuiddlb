@@ -6,7 +6,7 @@ One of the common requirements in SAP CRM implementation is to set up existed or
 
 But in one beautiful day end users request to resort entries in different order than they were created initially. Of course, standard user’s setting options "sorted by key" or "sorted by values" do not suit their needs. Moreover, the time goes by and values in those dropdown boxes become obsolete. Values are obsolete in terms of new instances of business objects. In old ones they must remain for historical reasons.
 
-All of that has to be different for different business roles.
+All of that must be different for different business roles.
 
 ## Solution
 
