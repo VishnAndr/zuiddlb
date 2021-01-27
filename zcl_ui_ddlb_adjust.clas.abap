@@ -229,9 +229,7 @@ ENDMETHOD.
     DATA: lv_component  TYPE bsp_wd_component_name,
           lv_viewname	  TYPE o2pageext,
           ls_search_key TYPE bsp_dlcs_conf_sem_key_var_part,
-          lv_attr       TYPE string,
-          lv_index      TYPE string,
-          lv_dummy      TYPE string.
+          lv_attr       TYPE string.
     DATA: ls_view   TYPE zui_ddlb_view_struct,
           ls_config TYPE zui_ddlb_conf_struct,
           ls_attr   TYPE zui_ddlb_attr_struct,
